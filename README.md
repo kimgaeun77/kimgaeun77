@@ -1,6 +1,6 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=slice&height=250&color=B7D0E4&text=welcome!&fontSize=100&fontColor=343a40&fontAlignY=40&animation=fadeIn&desc=gaeun's%20GitHub&descAlign=68&descAlignY=61&descSize=25)
+ 
+![header](https://capsule-render.vercel.app/api?type=slice&height=230&color=B7D0E4&text=welcome!&fontSize=100&fontColor=343a40&fontAlignY=40&animation=fadeIn&desc=gaeun's%20GitHub&descAlign=68&descAlignY=61&descSize=25)
 </div>
 
 <h3 align="center">
@@ -10,7 +10,7 @@
 <p align="center">
   I'm Gaeun Kim, who wants to be a backend developer 👩‍💻
 </p>
-
+<br>
 <h3 align="center">
    📚 Tech Stack 📚 
 </h3>
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/>
 </div> 
-
+<br>
 <h3 align="center">
   •••
 </h3>
