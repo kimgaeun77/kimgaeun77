@@ -23,7 +23,6 @@
 
 <div align="center">  
   <img src="https://img.shields.io/badge/Oracle-d40000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/>
 </div> 
 <br>
