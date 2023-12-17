@@ -4,11 +4,11 @@
 </div>
 
 <h3 align="center">
-   Hi there 👋
+   Introduction🙌
 </h3>
 
 <p align="center">
-  I'm Gaeun Kim, who wants to be a backend developer ✨
+  I'm Gaeun Kim, who wants to be a backend developer!
 </p>
 <br>
 <h3 align="center">
