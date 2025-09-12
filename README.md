@@ -4,11 +4,11 @@
 </div>
 
 <h3 align="center">
-   Introduction🙌
+   Hi🙌
 </h3>
 
 <p align="center">
-  I'm Gaeun Kim, who wants to be a backend developer!
+  I’m Kim Ga-eun. I’m a developer with 1 year of experience.
 </p>
 <br>
 <h3 align="center">
@@ -33,22 +33,4 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
 </div> 
 <br>
-
-<h3 align="center">
-   What I am currently studying is...📖
-</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-</div> 
-<br>
-
-<h3 align="center">
-  •••
-</h3>
-
-<div align="center">
-  <a href="mailto:kge3906@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kge3906@gmail.com"/>
-  </a>
-</div> 
 
