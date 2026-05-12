@@ -8,5 +8,5 @@
 </h3>
 
 <p align="center">
-  I’m Kim Ga-eun. I’m a developer with 1 year of experience.
+  I’m Kim Ga-eun. I’m a developer with 2 year of experience.
 </p>
